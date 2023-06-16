@@ -1,0 +1,75 @@
+.bg {
+    /* The image used */
+    background-image: url("bg.png");
+  
+    /* Full height */
+    min-height: 120vh;
+    min-width: 100vw;
+  
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+  
+.bg-dark {
+  background-color: #051422!important;
+}
+.card
+{
+  height: 50px;
+}
+.input-group-text
+{
+  background-color: rgb(1, 255, 200);
+}
+.form-control
+{
+  background-color: #051422;
+}
+.col{
+  font-size: xx-large;
+  color: rgb(231, 190, 55);
+  text-align: center;
+  border-style: solid;
+  border-width: 5px ;
+  border-color: #051422;
+
+}
+#button
+{
+  background-color: rgb(5, 255, 255);
+  color: rgb(0, 0, 0);
+}
+
+p {
+
+  color: #000080;
+  size: 10px;
+
+
+}
+
+
+a[href] {
+
+  size: 10px;
+  color: #00FFFF;
+
+
+}
+.link-info
+{
+  font-size: 20px;
+}
+.custom-control custom-checkbox
+{
+  font-size: 20px;
+}
+.vr
+{
+  height: fit-content;
+  width: 5%;
+  color: rgb(247, 22, 22);
+}
