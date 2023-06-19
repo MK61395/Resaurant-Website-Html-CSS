@@ -20,10 +20,12 @@
 {
   height: 50px;
 }
+
 .input-group-text
 {
   background-color: rgb(1, 255, 200);
 }
+
 .form-control
 {
   background-color: #051422;
