@@ -2,6 +2,7 @@
 {
     background-color: #051422!important;
 }
+
 .row {
     display: -ms-flexbox; 
     display: flex;
@@ -73,7 +74,7 @@
   .btn:hover {
     background-color: #0feea4;
   }
-  
+
   span.price {
     float: right;
     color: rgb(0, 0, 0);
