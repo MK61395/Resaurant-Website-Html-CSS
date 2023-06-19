@@ -30,6 +30,7 @@
 {
   background-color: #051422;
 }
+
 .col{
   font-size: xx-large;
   color: rgb(231, 190, 55);
@@ -39,6 +40,7 @@
   border-color: #051422;
 
 }
+
 #button
 {
   background-color: rgb(5, 255, 255);
@@ -49,8 +51,6 @@ p {
 
   color: #000080;
   size: 10px;
-
-
 }
 
 
@@ -58,17 +58,18 @@ a[href] {
 
   size: 10px;
   color: #00FFFF;
-
-
 }
+
 .link-info
 {
   font-size: 20px;
 }
+
 .custom-control custom-checkbox
 {
   font-size: 20px;
 }
+
 .vr
 {
   height: fit-content;
