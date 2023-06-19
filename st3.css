@@ -6,11 +6,13 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
+
 .form-control
 {
     width: 1073px;
     background-color:#051422;
 }
+
 .fa-search
 {
     background-color:#1998d3;
@@ -21,6 +23,7 @@
     height: 70px;
     text-align: center;
 }
+
 .nav justify-content-center
 {
     text-align: center;
@@ -28,36 +31,44 @@
     color: lightseagreen;
     background-color: #5aa3e7!important;
 }
+
 .nav-item
 {
     background-color:#051422;
     width: fit-content;
 }
+
 .card
 {
   height: 50px;
   color: #fff;
 }
+
 .p-2
 {
   color: #fff;
 }
+
 .p-2
 {
   color: #fff;
 }
+
 .container
 {
   color: #fff;
 }
+
 #subject
 {
   width:300px;
 }
+
 .btn-light
 {
   background-color:#0ca392;
 }
+
 header
 {
   position: absolute;
@@ -70,19 +81,23 @@ header
   justify-content: space-between;
   align-items: center;
 }
+
 .bg-dark 
 {
     background-color: #051422!important;
 }
+
 .btn-primary
 {
     color: rgb(255, 255, 255);
     background-color:#03121a;
 }
+
 .fa-shopping-cart
 {
     width: fit-content;
 }
+
 #menu
 {
     text-align: justify;
