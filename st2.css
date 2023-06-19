@@ -11,20 +11,24 @@
 {
     background-color: #051422!important;
 }
+
 .bg-dark 
 {
     height: 70px;
     text-align: center;
 }
+
 .container-fluid bg-dark d-flex
 {
   min-height: 550px;
 }
+
 .logo
 {
     color: #0b1c55;
     font-weight: bolder;
 }
+
 .products
 {
     background-color: black;
